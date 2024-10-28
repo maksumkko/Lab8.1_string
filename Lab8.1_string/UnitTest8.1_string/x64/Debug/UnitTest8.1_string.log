@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest8.1_string.cpp
+C:\Users\Acer\source\repos\Lab8.1_string\Lab8.1_string\Lab8.1_string.cpp(11,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest8.1_string.cpp')
+  
+     Creating library C:\Users\Acer\source\repos\Lab8.1_string\x64\Debug\UnitTest8.1_string.lib and object C:\Users\Acer\source\repos\Lab8.1_string\x64\Debug\UnitTest8.1_string.exp
+  UnitTest8.1_string.vcxproj -> C:\Users\Acer\source\repos\Lab8.1_string\x64\Debug\UnitTest8.1_string.dll
